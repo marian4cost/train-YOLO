@@ -1,0 +1,6 @@
+path: /Users/username/plasticbottleimage/data #caminho do diretório onde se encontram os dados
+train: images/train #subdiretório onde estão as imagens do treinamento
+val: images/train #subdiretório onde estão as imagens de validação
+
+names: #seção de mapeamento de classes
+  0: plasticBottle #os dados do treinamento de validação referente a garrafa plástica serão nomeadas de 0
